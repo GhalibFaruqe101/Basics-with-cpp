@@ -20,6 +20,12 @@ Just follow these simple steps:
   ```
 ./Name_of _the_program
 
-```
+````
 🌈 Enjoy the Magic
 Watch the code do its magic and spread joy! 🎩✨
+
+🎈 Contributing
+Found a way to make the code even more fun? Feel free to contribute!.
+
+📜 License
+This code is licensed under the MIT License. Have fun responsibly! 🎉
