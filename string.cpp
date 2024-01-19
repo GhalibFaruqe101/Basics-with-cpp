@@ -1,3 +1,5 @@
+
+//This is an simple example of string.
 #include<bits/stdc++.h>
 #include<iostream>
 using namespace std;
